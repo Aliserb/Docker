@@ -1,0 +1,1 @@
+* * * * * echo "write number 1 - $(date)\n" >> /var/test.log
